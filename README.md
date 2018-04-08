@@ -14,10 +14,10 @@ Test files should sit with their source and be in teh format `*Spec.js`.
 
 Install modules: `npm install`
 
-Build ES6: `npm build`
+Build ES6: `npm run build`
 
 Link command line: `npm link`
 
-Run application: `runapp load -f=<filename>`
+Run application: `runapp load -f=testfile`
 
 
