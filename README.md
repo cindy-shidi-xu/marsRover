@@ -12,12 +12,12 @@ Test files should sit with their source and be in teh format `*Spec.js`.
 
 # Environment Setup
 
-Install modules: npm install
+Install modules: `npm install`
 
-Build ES6: npm build 
+Build ES6: `npm build`
 
-Link command line: npm link
+Link command line: `npm link`
 
-Run application: npm load -f=<filename>
+Run application: `runapp load -f=<filename>`
 
 
