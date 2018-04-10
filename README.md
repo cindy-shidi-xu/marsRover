@@ -21,7 +21,7 @@ MMRMMRMRRM
 **Output:**  
 1 3 N  
 5 1 E
----
+
 
 This application allows you to load a file through command line to control the rover movements. 
 The file content is read to an array and processed line by line. The rover movement rules are setup in the movements.js, which controls the direction and coordinates' increment. An rover object is created to store the cooridinates, the facing direction and the max coordinates of the grid. 
